@@ -1,0 +1,32 @@
+.addbook{
+    margin-left: 900px;
+    margin-top: 30px;
+    border: 2px solid blueviolet;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+}
+.flbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.logout{
+    margin-top: 30px;
+    border: 2px solid blueviolet;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+}
+.bookslistbox{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.images{
+    width:100px
+}

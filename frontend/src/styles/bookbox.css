@@ -1,0 +1,27 @@
+.bookbox{
+    width: 500px;
+    /* height: 600px; */
+    margin-left: 400px;
+    /* margin-top: 20px; */
+    border: 2px solid rgb(242, 142, 142);
+    border-radius: 30px;
+    background-color: cadetblue;
+}
+.title,.isbn,.author,.describe,.date,.publisher{
+    margin-left: 100px;
+    width: 300px;
+    height: 30px;
+}
+.add{
+    margin-left:180px ;
+    width:150px;
+    height: 30px;
+}
+.logouts{
+    margin-top: 10px;
+    border: 2px solid blueviolet;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+    margin-left: 1000px;
+}

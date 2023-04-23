@@ -1,0 +1,33 @@
+
+body{
+    margin:0;
+    /* background:linear-gradient(90deg,rgb(234, 211, 169),rgb(156, 244, 146)); */
+}
+.box{
+    width: 500px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+    border: 2px solid rgb(242, 142, 142);
+    border-radius: 30px;
+    background: linear-gradient(90deg,rgb(234, 211, 169),rgb(156, 244, 146));
+}
+.text{
+    text-align: center;
+    color: darkblue;
+}
+.name,.password{
+    margin-left: 100px;
+    width: 300px;
+    height: 30px;
+}
+.login,.signup{
+    margin-left:180px ;
+    width:150px;
+    height: 30px;
+}
+.signup{
+    border: none;
+    color: rgb(78, 144, 242);
+    background-color: white;
+}
